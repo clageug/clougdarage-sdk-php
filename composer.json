@@ -2,7 +2,7 @@
     "name": "clageug/clougdarage-sdk-php",
     "description": "CloudGarage Public API for PHP",
     "type": "library",
-    "license": "Apache",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Kento Nomiyama",
